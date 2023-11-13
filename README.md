@@ -17,8 +17,8 @@ Welcome to the Movie Search App! This React application lets users explore and d
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/majortank/aboutthefilm.git
+   cd majortank
    ```
 
 2. **Install dependencies:**
