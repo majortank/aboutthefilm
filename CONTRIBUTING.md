@@ -4,10 +4,6 @@
 
 We welcome contributions in the form of bug reports, feature requests, documentation improvements, or code contributions. Please follow the guidelines below to ensure smooth collaboration.
 
-## Code of Conduct
-
-Please review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to promote a positive and inclusive community.
-
 ## How to Contribute
 
 1. **Fork the repository:** Click the "Fork" button on the top right corner of the repository page and clone your forked repository to your local machine.
