@@ -1,14 +1,11 @@
+
+
+
 MIT License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ---
+**AboutTheFilm**
 
-MIT License
-
-**[Insert Project Name]**
-
-Copyright (c) [Year] [Author]
+Copyright (c) 2023 Thabo Tankiso Thebe
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
