@@ -43,7 +43,7 @@ We welcome contributions in the form of bug reports, feature requests, documenta
 
 ## Reporting Issues
 
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/your-username/your-repo-name/issues) with a clear title and description.
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/majortank/aboutthefilm/issues) with a clear title and description.
 
 ## Thank You!
 
