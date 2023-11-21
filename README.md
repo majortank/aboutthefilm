@@ -1,4 +1,4 @@
-# 🎬 Movie Search App
+# 🎬 Movie Info App
 Welcome to the Movie Search App! This React application lets users explore and discover movies using the OMDB API. 🍿
 ![Movie Search App](./screenshot.png)
 
@@ -7,7 +7,7 @@ This repository contains the source code for the AboutTheFilm movie info app, an
 
 Table of Contents
 ## Features
-- 🎥 Search for movies by title
+- 🎥 Search for movies by title - Main Feature
 - 🎞 Display search results with detailed movie information
 - 🌐 Responsive design for various devices
 - 🚀 Error handling for smooth user experience
