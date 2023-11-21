@@ -1,6 +1,7 @@
 # 🎬 Movie Search App
-![Movie Search App](./screenshot.png)
 Welcome to the Movie Search App! This React application lets users explore and discover movies using the OMDB API. 🍿
+![Movie Search App](./screenshot.png)
+
 
 ## Features
 - 🎥 Search for movies by title
